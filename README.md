@@ -216,8 +216,8 @@ server:
 
 ## Related Services
 
-- [Shopping Service](../shopping-service/README.md) - Client service that uses service discovery
-- [Payment Service](../payment-service/README.md) - Provider service registered with Eureka
+- [Shopping Service](https://github.com/dkothari21/shopping-service/blob/main/README.md) - Client service that uses service discovery
+- [Payment Service](https://github.com/dkothari21/payment-service/blob/main/README.md) - Provider service registered with Eureka
 
 ## Additional Resources
 
